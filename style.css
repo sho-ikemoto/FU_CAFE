@@ -8,7 +8,8 @@
     src: url("fonts/odstemplik/odstemplik.otf") format("opentype"),url("fonts/odstemplik/odstemplikBold.otf") format("opentype");
 }
 .top-img{
-    background-image: url("inside_wall_1.jpeg");
+    /*background-image: url("inside_wall_1.jpeg");*/
+    background-color:black;
     background-size:cover;
     background-attachment:fixed;
 }
